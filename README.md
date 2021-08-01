@@ -7,7 +7,11 @@ This mod REQUIRES the Fabric Launcher and Mod to be installed and at least versi
 
 # Changelog
 Release 1.0.0
+
 -Added Boiled Axolotl Item
+
 --with Texture
+
 --obtainable by putting a Bucket of Axolotl in a furnace
+
 --can be eaten for 1 Hunger Point and 6 Saturation
