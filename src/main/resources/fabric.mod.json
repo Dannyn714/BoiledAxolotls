@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "boiledaxolotls",
+  "version": "${version}",
+  "name": "BoiledAxolotls",
+  "description": "This mod allows you to boil axolotls",
+  "authors": [
+    "DirtyDan"
+  ],
+  "contributors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/boiledaxolotls/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.BoiledAxolotls.boiledaxolotls"
+    ],
+    "client": [],
+    "server": []
+  },
+  "mixins": [
+    "boiledaxolotls.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*"
+  }
+}

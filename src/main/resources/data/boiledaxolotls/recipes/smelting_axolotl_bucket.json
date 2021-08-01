@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:axolotl_bucket"
+    },
+    "result": "dirtydan:boiledaxolotl",
+    "experience": 0.1,
+    "cookingtime": 50
+}
